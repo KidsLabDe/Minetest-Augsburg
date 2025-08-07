@@ -2,6 +2,17 @@
 
 **Zukunft spielend gestalten - Die digitale Zukunftswerkstatt für Augsburg**
 
+### Schnellstart - Direkt auf dem Server spielen! 🚀
+
+**Am einfachsten geht's direkt online:**
+
+1. Minetest/Luanti installieren ([Anleitung hier](https://handbuch.kidslab.de/minetest/allgemeines))
+2. Im Hauptmenü auf **"Server beitreten"** klicken
+3. Nach **"augsburg"** suchen
+4. Server auswählen und mit Passwort **"kidslab"** beitreten
+5. Los geht's mit dem Bauen deiner Zukunftsstadt!
+
+
 ## 🎮 Über das Projekt
 
 Dieses Repository enthält die Minetest-Welt und Ressourcen für die **Digitalen Zukunftsnächte** in Augsburg. Hier verwandeln Jugendliche ihre Ideen für eine bessere Stadt in virtuelle Modelle - von Grünflächen über Jugendtreffpunkte bis hin zu nachhaltigen Verkehrskonzepten.
@@ -21,20 +32,16 @@ Mehr Informationen: [zukunftsnacht.de](https://zukunftsnacht.de/)
 
 ## 🛠️ Technische Details
 
-### Voraussetzungen
+### Lokale Installation (für Entwickler)
 
-- [Minetest](https://www.minetest.net/) (Version 5.x oder höher)
-- Die in diesem Repository enthaltenen Mods und Welten
+Falls du die Welt lokal bearbeiten möchtest:
 
-### Installation
-
-1. Minetest herunterladen und installieren
-2. Dieses Repository klonen:
+1. Dieses Repository klonen:
    ```bash
    git clone https://github.com/KidsLabDe/Minetest-Augsburg.git
    ```
-3. Die Weltdaten in den Minetest-Welten-Ordner kopieren
-4. Die benötigten Mods installieren
+2. Die Weltdaten in den Minetest-Welten-Ordner kopieren
+3. Die benötigten Mods installieren
 
 ### Struktur
 
@@ -79,7 +86,6 @@ Beiträge zum Projekt sind willkommen:
 3. Committe deine Änderungen (`git commit -m 'Füge neues Feature hinzu'`)
 4. Push zum Branch (`git push origin feature/NeuesFeature`)
 5. Öffne einen Pull Request
-
 
 ## 🏛️ Partner & Unterstützer
 
